@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://igaboaly.github.io/sitemap.html.gz
+Sitemap: https://igaboaly.github.io/app/sitemap.html.gz
+Sitemap: https://igaboaly.github.io/assets/sitemap.html.gz
+Sitemap: https://igaboaly.github.io/css/sitemap.html.gz
+Sitemap: https://igaboaly.github.io/includes/sitemap.html.gz
+Sitemap: https://igaboaly.github.io/item/sitemap.html.gz
+Sitemap: https://igaboaly.github.io/src/sitemap.html.gz
